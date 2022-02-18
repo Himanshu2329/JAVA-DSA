@@ -23,7 +23,7 @@ public class sumofArray {
     int j=two.length-1;
     int k=sum.length-1;
     while (k>=0) {
-      int d=c;
+      int d=c;;
       if(i>=0){
         d=d+one[i];
       }
